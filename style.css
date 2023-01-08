@@ -1,0 +1,184 @@
+
+*{
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.container{
+    background-image: url(images/banner/banner1.png);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    height:900px;
+}
+.title{
+
+    font-weight: 700;
+    font-size: 40px;
+}
+.btn-contact{
+
+    width: 90px;
+height: 45px;
+background-color: #F15B22;
+color:#FFFFFF;
+border: 0;
+border-radius: 5px;
+}
+.content{
+
+    justify-content:right;
+    margin-left:850px;
+    padding-top:200px ;
+
+
+}
+.failures-description{
+    color:#444343;
+    font-size: 12px;
+    
+}
+.container-2{
+
+    background-image: url(images/person.png); 
+    background-repeat: no-repeat;
+    background-size: 50;
+    height:800px;
+    margin-top:200px;
+    margin-left: 100px;
+}
+.all-description{
+    margin-left:720px;
+    padding-top:50px ;
+    /* margin-right:300px ; */
+
+}
+.plans{
+    text-align: center;
+}
+.all-plans{
+    display: flex;
+    justify-content:space-around;
+}
+.container-4{
+
+margin:200px 70px;
+margin-left: 80px;
+background: linear-gradient(to right, #F15B22 0%, rgba(241, 91, 34, 0) 100%),url(images/watch.png);
+background-repeat: no-repeat;
+height:250px;
+
+
+}
+.container-5{
+    display: flex;
+    background-color: black;
+    justify-content:space-around;
+    padding: 20px;
+    margin: 0;
+}
+.text{
+    color:#FFFFFF;
+}
+.text-2{
+    font-size: 10px;
+    color:darkgrey;
+}
+.btn-footer{
+    background-color:#F15B22;
+    width: 90px;
+    height: 35px;
+    color:black;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.last-section{
+    display: block;
+}
+.input{
+    background-color: black;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+}
+.icons{
+
+    margin-left: 5px;
+    width: 29 px;
+    height: 20px;
+}
+.container-4-title{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.btn-footer2{
+
+    background-color:#FFFFFF;
+    width: 90px;
+    height: 35px;
+    color:#F15B22;;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 10px;
+
+}
+
+.projects-container{
+
+display:flex;
+justify-content: space-around;
+}
+
+.projects-container2{
+
+    display:flex;
+    justify-content: space-around;
+
+    }
+.projects-image{
+
+width: 230px;
+height: 190px;
+    }
+    
+    .build-project{
+
+        margin-top: 150px;
+        text-align: center;
+    }
+    .projects-title{
+
+      text-align: center;
+
+    }
+    .check{
+        width: 20px;
+        height: 10px;
+        margin-top: 20px;
+        margin-right: 20px;
+    }
+
+    .icon-flex{
+        display:flex;
+    } 
+    .web{
+        text-align: center;
+    }
+    .web-des{
+     
+        color: #444343;
+        text-align: center;
+        font-size: 700;
+    }
+    
+    .content-3{
+        margin-top: 300px;
+    }
+    .all-plans{
+
+        margin-top: 90px;
+    }
+    .footer{
+        margin: 0;
+    }
+    
